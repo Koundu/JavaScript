@@ -1,0 +1,64 @@
+*{
+    background-color: black !important;
+}
+
+p{
+    color: white;
+    margin-top: 105px;
+    margin-left: 58px;
+}
+
+button#profession{
+    width: 196px;
+    margin-top: 65px;
+    margin-left: 58px;
+    border-radius: 0px !important;
+}
+
+.dropdown{
+    color: white;
+}
+
+.table{
+    color: white;
+    margin-top: 49px;
+    width: 536px;
+    height: 59px;
+    margin-left: 58px;
+}
+
+button#filter{
+    color: black;
+    background-color: white !important;
+    margin-left: 58px;
+    width: 226px;
+    border-radius: 0px !important;
+}
+
+label,input{
+    display: block;
+    margin-left: 58px;
+    color: white;
+    width: 531px;
+    height: 56px;
+}
+
+label{
+    width: 119px !important;
+    height: 25px !important;
+    margin-bottom: 20px;
+}
+
+label#profession{
+    width: 157px !important;
+    height: 25px !important;
+    margin-bottom: 20px;
+}
+button#add-user{
+    color: black;
+    background-color: white !important;
+    margin-left: 58px;
+    width: 226px;
+    border-radius: 0px !important;
+    margin-top: 41px;
+}
