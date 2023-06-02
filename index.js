@@ -1,5 +1,5 @@
 const searchInput = document.getElementById("search-input");
-// const apiKey = prompt("Enetr the YouTube API Key");
+const apiKey = prompt("Enetr the YouTube API Key");
 localStorage.setItem("api_key", apiKey);
 const container = document.getElementById("container");
 
